@@ -12,7 +12,7 @@ Welcome to Random Number Trivia! This interactive web application allows users t
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/random-number-trivia.git`
+1. Clone the repository: `git clone https://github.com/prithvikings/Random-number-Trivia.git`
 2. Open `index.html` in your web browser.
 3. Enter a number and click "Generate Trivia" to see fascinating facts!
 
