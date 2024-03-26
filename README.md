@@ -20,6 +20,3 @@ Welcome to Random Number Trivia! This interactive web application allows users t
 
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request to help improve Random Number Trivia for everyone.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
